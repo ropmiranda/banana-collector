@@ -17,10 +17,10 @@ To solve the problem an agent is trained using reinforcement learning techniques
 ## Getting Started
 In order to run this code, install the following dependencies:
 
-pip install unityagents
+`pip install unityagents`
 
-pip install torch
+`pip install torch`
 
-pip install matplotlib
+`pip install matplotlib`
 
-pip install numpy
+`pip install numpy`
