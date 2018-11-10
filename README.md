@@ -24,3 +24,10 @@ In order to run this code, install the following dependencies:
 `pip install matplotlib`
 
 `pip install numpy`
+
+## Executing the solution
+Given that jupyter has been installed http://jupyter.org/install, execute the following command on terminal:
+```shell
+$ jupyter notebook
+```
+After Jupyter Notebook has opened, navegate to the directory `banana-collector/` and double click in Navegation.ipynb. There you can follow the instructions to execute the solution. 
