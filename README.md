@@ -42,3 +42,10 @@ Given that jupyter has been installed http://jupyter.org/install, execute the fo
 $ jupyter notebook
 ```
 After Jupyter Notebook has opened, navegate to the directory `banana-collector/` and double click in Navegation.ipynb. There you can follow the instructions to execute the solution. 
+
+## Dueling DQN
+Try to use other king of network implementation:
+
+`dueling_dqn.py`
+
+Just little changes on the dqn_agent.py init function and an import are necessary.
