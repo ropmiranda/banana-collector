@@ -1,5 +1,5 @@
-## Banana-collector
+# Banana-collector
 
-# The Project
+## The Project
 
-# Getting Started
+## Getting Started
