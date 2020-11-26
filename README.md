@@ -6,7 +6,7 @@ The main objective here is to solve an environment (Unity Banana Environment) us
 
 
 ## The Environment
-The environment banana.app was develop and provided by Udacity team. The environment is composed by and agent that has to collect yellow bananas avoiding blue bananas. The yellow bananas give the agent +1 as reward whereas the blue ones give it -1. The state space has 37 dimensions containing the agent’s velocity, along with a ray-based perception of the environment. The agent has to learn how select actions during training interactions. Move backward or forward and turn left or right are the 4 actions available.
+The environment banana.app was developed and provided by Udacity team. The environment is composed by and agent that has to collect yellow bananas avoiding blue bananas. The yellow bananas give the agent +1 as reward whereas the blue ones give it -1. The state space has 37 dimensions containing the agent’s velocity, along with a ray-based perception of the environment. The agent has to learn how select actions during training interactions. Move backward or forward and turn left or right are the 4 actions available.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif" alt="Example game of isolation" width="50%" style="middle"></p>
 
